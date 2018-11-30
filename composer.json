@@ -1,6 +1,6 @@
 {
 	"name": "madtownagency/gravityforms",
-	"version": "1.0.1",
+	"version": "2.4.0.11",
 	"description": "A fork of gravityforms so it can be included via composer.",
 	"type": "wordpress-plugin",
 	"authors": [
